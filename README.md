@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Harmona - AI Mental Health & Wellbeing Assistant
 
 Life can feel overwhelming at times — your mind racing with 1,001 thoughts, each one piling onto the mess that already sits and marinates in your mind. When everything seems too much to handle, it's easy to feel hopeless and the urge to give up only seems to get stronger as time goes on. But you're not alone. Harmona is here to provide support, clarity, and a space to breathe.
@@ -24,3 +25,7 @@ Let's build a healthier mental space together through technology! We got this <3
 
 **Manjeev Takhar** - Computer Science 2nd Year Student at University of Birmingham, UK.
 
+=======
+# harmona
+AI Mental Health &amp; Wellbeing Assistant
+>>>>>>> fefbb06fce7bbdc15f7246f6438183ecd89973d9
