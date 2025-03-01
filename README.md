@@ -22,5 +22,5 @@ If you have any questions, feel free to reach out on Discord *@m9anj* or open an
 ---
 Let's build a healthier mental space together through technology! We got this <3
 
-Manjeev Takhar - Computer Science 2nd Year Student at University of Birmingham, UK.
+**Manjeev Takhar** - Computer Science 2nd Year Student at University of Birmingham, UK.
 
