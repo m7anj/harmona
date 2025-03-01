@@ -24,8 +24,3 @@ If you have any questions, feel free to reach out on Discord *@m9anj* or open an
 Let's build a healthier mental space together through technology! We got this <3
 
 **Manjeev Takhar** - Computer Science 2nd Year Student at University of Birmingham, UK.
-
-=======
-# harmona
-AI Mental Health &amp; Wellbeing Assistant
->>>>>>> fefbb06fce7bbdc15f7246f6438183ecd89973d9
