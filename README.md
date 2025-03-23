@@ -1,8 +1,8 @@
 # 🧠🌱 Harmona - AI Mental Health & Wellbeing Assistant
 
-Life can feel overwhelming at times — your mind racing with 1,001 thoughts, each one piling onto the mess that already sits and marinates in your mind. When everything seems too much to handle, it's easy to feel hopeless and the urge to give up only seems to get stronger as time goes on. But you're not alone. Harmona is here to provide support, clarity, and a space to breathe.
+Life can feel overwhelming at times — your mind racing with 1,001 thoughts, each one piling onto the mess that already sits and marinates in your mind. When everything seems too much to handle, it's easy to feel hopeless and the urge to give up only seems to get stronger as time goes on. But you're not alone. 
 
-Harmona is a fullstack AI-powered mental health and wellbeing assistant designed to provide emotional support, mindfulness exercises, and mental health resources.
+**Harmona** is here to provide support, clarity, and a space to breathe. It is a fullstack AI-powered mental health and wellbeing assistant designed to provide emotional support, mindfulness exercises, and mental health resources.
 
 ## What does Harmona promise to it's users?
 
