@@ -7,12 +7,8 @@ function App() {
 
     <div className="App">
       <header className="App-header">
-
         <h1>Harmona</h1>
-        
         <p>AI Mental Health Wellbeing Assistant</p>
-
-
       </header>
     </div>
 
