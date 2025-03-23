@@ -1,4 +1,4 @@
-# 🧠🌱 Harmona - AI Mental Health & Wellbeing Assistant
+# 🧠 **Harmona** - AI Mental Health & Wellbeing Assistant 🌱
 
 Life can feel overwhelming at times — your mind racing with 1,001 thoughts, each one piling onto the mess that already sits and marinates in your mind. When everything seems too much to handle, it's easy to feel hopeless and the urge to give up only seems to get stronger as time goes on. But you're not alone. 
 
