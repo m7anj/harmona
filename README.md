@@ -1,4 +1,4 @@
-# harmona
+# harmona 🪻
 
 ai-powered mental health and self-improvement platform
 
