@@ -3,6 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 
 import dotenv from "dotenv";
+import { get } from "http";
 dotenv.config();
 
 const firebaseConfig = {
@@ -17,4 +18,9 @@ const firebaseConfig = {
 
 const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
-
+const auth = getAuth(app);
+const db = getFirestore(app);
+const storage = getStorage(app);
+const functions = getFunctions(app);
+const messaging = getMessaging(app);
+const performance = getPerformance(app);
